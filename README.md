@@ -1,3 +1,4 @@
+
 # Maths Quiz
 
 code and documents for maths quiz game.
@@ -26,6 +27,8 @@ function setNextQuestion() {
     showQuestion(shuffledQuestions[currentQuestionIndex])
 
 } 
+
+<img width="1094" alt="Screen Shot 2021-08-02 at 9 57 57 PM" src="https://user-images.githubusercontent.com/82775553/128001537-007df442-6cfa-4fbe-80fd-e66061190d60.png">
 
 # # Copyright & licenses 
 
