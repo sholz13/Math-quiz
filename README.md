@@ -1,5 +1,5 @@
 
-# Maths Quiz
+# Math Quiz
 
 code and documents for maths quiz game.
 
